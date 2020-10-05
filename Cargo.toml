@@ -1,0 +1,10 @@
+[package]
+name = "alarm_clock"
+version = "0.1.0"
+authors = ["RogueArt <57082175+RogueArt@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+notify-rust = "4"
